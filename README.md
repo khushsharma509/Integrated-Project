@@ -21,7 +21,10 @@ Models: Custom ResNeXt CNNs
 🎯 Quick Start
 bash
 Copy
-git clone https://github.com/khushsharma509/Integrated-Project.git
+git clone https://github.com/khushsharma509/Integrated-Project.git   
+
 pip install -r requirements.txt
+
 python app.py
+
 Open http://localhost:5000 and start drawing!
